@@ -1,0 +1,25 @@
+﻿@using Alan.ExtensionMethods
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Extension Demonstration</title>
+</head>
+<body>
+    @{
+        int? intNull = null;
+        int intValue = 10;
+        bool isNull = intValue == null;
+
+    }
+    <div>
+        @(intValue.eIfNull<int>(4))
+    </div>
+</body>
+</html>

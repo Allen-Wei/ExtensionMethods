@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Alan.ExtensionMethods</id>
+    <version>0.0.0.1</version>
+    <title>Alan Extension Methods</title>
+    <authors>Alan Wei</authors>
+    <owners>Alan Wei</owners>
+    <licenseUrl>http://</licenseUrl>
+    <projectUrl>http://</projectUrl>
+    <iconUrl>http://</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension methods</description>
+    <releaseNotes>Extension methods utils.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Utils Extension</tags>
+  </metadata>
+</package>

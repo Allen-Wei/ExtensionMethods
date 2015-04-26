@@ -6,9 +6,9 @@
     <title>Alan Extension Methods</title>
     <authors>Alan Wei</authors>
     <owners>Alan Wei</owners>
-    <licenseUrl>http://</licenseUrl>
-    <projectUrl>http://</projectUrl>
-    <iconUrl>http://</iconUrl>
+    <licenseUrl>https://github.com/Allen-Wei/ExtensionMethods</licenseUrl>
+    <projectUrl>https://github.com/Allen-Wei/ExtensionMethods</projectUrl>
+    <iconUrl>https://github.com/Allen-Wei/ExtensionMethods</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Extension methods</description>
     <releaseNotes>Extension methods utils.</releaseNotes>
